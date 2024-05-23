@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 with open('data/data_tv.json', 'r') as f:
     data_tv = json.load(f)
-
+#sadads
 
 with open('data/data_movies.json', 'r') as f:
     data_movies = json.load(f)
